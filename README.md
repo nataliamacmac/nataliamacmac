@@ -1,10 +1,12 @@
 
 <h1 align="center">Olá mundo! Eu sou Natália Machado.</h1>
 <div align="center">
-    <p>
-Neste espaço vou compartilhando meu desenvolvimento.
-    </p>
-    <img src="https://i.gifer.com/JKkW.gif">
+	<p>
+		Neste espaço vou compartilhando meu desenvolvimento.
+	</p>
+	<p align="center">
+	  <img src="https://i.gifer.com/JKkW.gif" width="350">
+	</p>
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/nataliasfmmachado/" target="_blank">
