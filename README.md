@@ -4,9 +4,9 @@
 	<p>
 		Neste espaço vou compartilhando meu desenvolvimento.
 	</p>
-	<p align="center">
-	  <img src="https://i.gifer.com/JKkW.gif" width="350">
-	</p>
+	<div style="padding-top:75.000%;position:relative;">
+	<iframe src="https://gifer.com/embed/JKkW" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
+	</div>
 </div>
 <div align="center">
     <a href="https://www.linkedin.com/in/nataliasfmmachado/" target="_blank">
