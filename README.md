@@ -33,6 +33,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40px" height="40px">
 </div>
+<h3 align="center">Estatísticas</h3>
 <div align="center">
 	<a href="https://github.com/nataliamacmac">  
   <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliamacmac&layout=compact&langs_count=7&theme=dracula"/>  
