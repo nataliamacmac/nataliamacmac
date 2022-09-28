@@ -8,6 +8,7 @@
 	  <img src="JKkW.gif" width="350">
 	</p>
 </div>
+![Snake animation](https://github.com/nataliamacmac/nataliamacmac/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
     <a href="https://www.linkedin.com/in/nataliasfmmachado/" target="_blank">
         <img title="Bora conectar?" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -40,5 +41,3 @@
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=nataliamacmac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 	</a>
 </div>
-![Snake animation](https://github.com/nataliamacmac/nataliamacmac/blob/output/github-contribution-grid-snake.svg)
-
