@@ -40,4 +40,4 @@
   <img height="140" src="https://github-readme-stats.vercel.app/api?username=nataliamacmac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
 	</a>
 </div>
-![Snake animation](https://github.com/nataliamacmac/mataliamacmac/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/nataliamacmac/nataliamacmac/blob/output/github-contribution-grid-snake.svg)
