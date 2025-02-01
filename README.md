@@ -1,7 +1,7 @@
-<h1 align="center">Olá mundo! Eu sou Natália Machado.</h1>
+<h1 align="center">Eu sou Natália Machado.</h1>
 <div align="center">
 	<p>
-	Neste espaço vou compartilhando meu desenvolvimento.
+	Sou desenvolvedora Backend Java
 	</p>
 	<p align="center">
 	  <img src="JKkW.gif" width="350">
@@ -19,15 +19,15 @@
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>  
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
+    	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+    	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/cucumber-plain.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/selenium-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/docker-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/eclipse-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/quasar-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/angular-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/swagger-original.svg" width="40" height="40"/>
 </div>
           
 <h3 align="center">Estatísticas</h3>
