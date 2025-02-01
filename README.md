@@ -21,13 +21,13 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
     	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
     	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/cucumber-plain.svg" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/selenium-original.svg" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/docker-original.svg" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/eclipse-original.svg" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/quasar-original.svg" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/angular-original.svg" width="40" height="40"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/swagger-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quasar/quasar-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40"/>
 </div>
           
 <h3 align="center">Estatísticas</h3>
