@@ -29,13 +29,9 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40"/>
 </div>
-          
-<h3 align="center">Estatísticas</h3>
+ 
+
 <div align="center">
-	<a href="https://github.com/nataliamacmac">  
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliamacmac&layout=compact&langs_count=7&theme=dracula"/>  
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=nataliamacmac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-	</a>
 	
 ![Snake animation](https://github.com/nataliamacmac/nataliamacmac/blob/output/github-contribution-grid-snake.svg)
 
