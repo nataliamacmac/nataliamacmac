@@ -29,7 +29,15 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="40" height="40"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="40" height="40"/>
 </div>
- 
+
+<div align="center">
+	<a href="https://github.com/nataliamacmac">
+	  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=nataliamacmac" />
+	</a>
+	<a href="https://github.com/nataliamacmac/qa-test">
+	  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=nataliamacmac&layout=compact&langs_count=8&card_width=320" />
+	</a>	
+</div>
 
 <div align="center">
 	
